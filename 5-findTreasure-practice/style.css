@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+img {
+  display: block;
+  margin: auto;
+}
+button {
+  margin-bottom: 25px;
+  font-size: 20px;
+  border-radius: 10px;
+  outline: none;
+  background-color: rgb(237, 203, 159);
+  color: rgb(137, 97, 216);
+  border: 2px solid rgb(137, 97, 216);
+  cursor: pointer;
+}
